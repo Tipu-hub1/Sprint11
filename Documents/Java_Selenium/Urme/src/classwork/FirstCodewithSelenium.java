@@ -27,8 +27,9 @@ public class FirstCodewithSelenium {
 		Thread.sleep(4000);
 		System.out.println("changed from Github by Bashir");
 		System.out.println("Changed by Laboni");
-		
 		System.out.println("conflict_1 from local");
+		System.out.println("conflict from another coworker");
+
 //		driver.navigate().refresh();
 //		driver.navigate().forward();
 //		driver.navigate().back();
