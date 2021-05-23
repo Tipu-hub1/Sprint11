@@ -29,6 +29,8 @@ public class FirstCodewithSelenium {
 		System.out.println("Changed by Laboni");
 		System.out.println("conflict_1 from local");
 		System.out.println("conflict from another coworker");
+		
+		System.out.println("Changed from server");
 
 //		driver.navigate().refresh();
 //		driver.navigate().forward();
