@@ -25,7 +25,7 @@ public class FirstCodewithSelenium {
 		
 		driver.navigate().to("http://automationpractice.com/index.php");
 		Thread.sleep(4000);
-		
+		System.out.println("changed from Github by Bashir");
 //		driver.navigate().refresh();
 //		driver.navigate().forward();
 //		driver.navigate().back();
