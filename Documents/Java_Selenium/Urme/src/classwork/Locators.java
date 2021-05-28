@@ -60,7 +60,7 @@ public class Locators extends FirstCodewithSelenium{
 		Locators obj = new Locators();
 		obj.LaunchURL();
 		obj.locator1();
-		
+		System.out.println("newchange");
 		
 	}
 
